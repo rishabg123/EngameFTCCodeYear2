@@ -5,7 +5,6 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.DcMotorSimple;
 import com.qualcomm.robotcore.hardware.Servo;
-//testing github desktop
 @TeleOp(name = "USE THIS ONE!!!!", group = "TeleOp")
 public class MainDriver extends LinearOpMode {
 
